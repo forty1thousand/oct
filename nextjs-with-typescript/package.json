@@ -1,0 +1,39 @@
+{
+  "name": "@batse/web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "go": "next build && next start",
+    "lint": "next lint",
+    "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@mui/x-date-pickers": "^5.0.13",
+    "@next/font": "latest",
+    "formik": "^3.0.0-next.8",
+    "json2mq": "^0.2.0",
+    "next": "latest",
+    "next-auth": "^4.18.7",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-query": "^4.0.0-beta.23",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/json2mq": "^0.2.0",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  }
+}
