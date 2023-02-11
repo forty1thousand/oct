@@ -1,4 +1,4 @@
-<h1 align=center href="http://34.130.125.198:3000">Oct</h1>
+<h1 align=center>Oct</h1>
 
 ## Description
 Schedule appointments with doctors online
