@@ -18,6 +18,3 @@ Schedule appointments with doctors online
     - Nextjs
     - Material ui
     - React Query
-
-<br></br>
-> [View live demo](http://34.130.125.198:3000)
